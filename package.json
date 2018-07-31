@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jofest Gren",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mongoose": "^5.2.6"
+  }
+}
